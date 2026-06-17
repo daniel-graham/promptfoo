@@ -117,7 +117,7 @@
       "gcp-metadata": "^8.1.2"
     },
     "webpack-dev-server": {
-      ".": "5.2.4",
+      ".": "5.2.5",
       "express": "^4.22.1"
     },
     "@anthropic-ai/claude-agent-sdk": {
